@@ -142,7 +142,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest?cb=20210801171738" group-title="Radio" tvg-id="CHN" tvg-name="CHN", FLY FM
 http://mediaprima.rastream.com/mediaprima-flyfm.android
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="724" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png",ONE FM
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN" group-title="Radio" tvg-id="CHN" tvg-name="CHN",Suria FM
